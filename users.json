@@ -1,0 +1,232 @@
+[
+  {
+    "kimliği": 1,
+    "isim": "Leanne Graham",
+    "kullanıcı adı": "Bret",
+    "email": "Sincere@april.biz",
+    "adres": {
+      "sokak": "Kulas Işık",
+      "suite": "Daire 556",
+      "şehir": "Gwenborough",
+      "posta kodu": "92998-3874",
+      "coğrafi": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "telefon": "1-770-736-8031 x56442",
+    "web sitesi": "hildegard.org",
+    "şirket": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Çok katmanlı istemci-sunucu sinir ağları",
+      "bs": "gerçek zamanlı e-pazarlardan faydalanın"
+    }
+  },
+  {
+    "kimliği": 2,
+    "name": "Ervin Howell",
+    "kullanıcı adı": "Antonette",
+    "e-posta": "Shanna@melissa.tv",
+    "adres": {
+      "sokak": "Victor Ovaları",
+      "suite": "Suite 879",
+      "şehir": "Wisokyburgh",
+      "posta kodu": "90566-7771",
+      "coğrafi": {
+        "lat": "-43.9509",
+        "Ing": "-34,4618"
+      }
+    },
+    "telefon": "010-692-6593 x09125",
+    "web sitesi": "anastasia.net",
+    "şirket": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proaktif didaktik beklenmedik durum",
+      "bs": "ölçeklenebilir tedarik zincirlerini birleştiriyor"
+    }
+  },
+  {
+    "kimliği": 3,
+    "name": "Clementine Bauch",
+    "kullanıcı adı": "Samantha",
+    "e-posta": "Nathan@yesenia.net",
+    "adres": {
+      "sokak": "Douglas Uzantısı",
+      "suite": "Suite 847",
+      "şehir": "McKenziehaven",
+      "posta kodu": "59590-4157",
+      "coğrafi": {
+        "lat": "-68.6102",
+        "Ing": "-47.0653"
+      }
+    },
+    "telefon": "1-463-123-4447",
+    "web sitesi": "ramiro.info",
+    "şirket": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "çatallanmış arabirimden yüz yüze",
+      "bs": "stratejik uygulamaları e-etkinleştir"
+    }
+  },
+  {
+    "kimlik": 4
+    "name": "Patricia Lebsack",
+    "kullanıcı adı": "Karianne",
+    "e-posta": "Julianne.OConner@kory.org",
+    "adres": {
+      "sokak": "Hoeger Alışveriş Merkezi",
+      "suite": "Apt. 692",
+      "şehir": "Güney Elvis",
+      "posta kodu": "53919-4257",
+      "coğrafi": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "telefon": "493-170-9623 x 156",
+    "web sitesi": "kale.biz",
+    "şirket": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Çok katmanlı sıfır tolerans verimliliği",
+      "bs": "son teknoloji web servisleri"
+    }
+  },
+  {
+    "kimlik": 5
+    "name": "Chelsey Dietrich",
+    "kullanıcı adı": "Kamren",
+    "e-posta": "Lucio_Hettinger@annie.ca",
+    "adres": {
+      "sokak": "Skiles Yürüyüşleri",
+      "suite": "Suite 351",
+      "şehir": "Roscoeview",
+      "posta kodu": "33263",
+      "coğrafi": {
+        "lat": "-31.8129",
+        "Ing": "62,5342"
+      }
+    },
+    "telefon": "(254) 954-1289",
+    "web sitesi": "demarco.info",
+    "şirket": {
+      "name": "Keebler LLC",
+      "catchPhrase": "Kullanıcı merkezli hataya dayanıklı çözüm",
+      "bs": "uçtan uca sistemlerde devrim yaratacak"
+    }
+  },
+  {
+    "kimlik": 6,
+    "İsim": "Bayan Dennis Schulist",
+    "kullanıcı adı": "Leopoldo_Corkery",
+    "e-posta": "Karley_Dach@jasper.info",
+    "adres": {
+      "sokak": "Norberto Geçişi",
+      "suite": "Daire 950",
+      "şehir": "Güney Christy",
+      "posta kodu": "23505-1337",
+      "coğrafi": {
+        "lat": "-71.4197",
+        "Ing": "71,7478"
+      }
+    },
+    "telefon": "1-477-935-8478 x6430",
+    "web sitesi": "ola.org",
+    "şirket": {
+      "name": "Considine-Lockman",
+      "catchPhrase": "Senkronize alt satır arayüzü",
+      "bs": "yenilikçi uygulamaları e-etkinleştir"
+    }
+  },
+  {
+    "kimliği": 7,
+    "name": "Kurtis Weissnat",
+    "kullanıcı adı": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "adres": {
+      "sokak": "Rex Yolu",
+      "suite": "Suite 280",
+      "şehir": "Howemouth",
+      "posta kodu": "58804-1099",
+      "coğrafi": {
+        "lat": "24.8918",
+        "Ing": "21,8984"
+      }
+    },
+    "telefon": "210.067.6132",
+    "web sitesi": "elvis.io",
+    "şirket": {
+      "name": "Johns Grubu",
+      "catchPhrase": "Yapılandırılabilir multimedya görev gücü",
+      "bs": "işletme e-postaları oluştur"
+    }
+  },
+  {
+    "kimlik": 8
+    "name": "Nicholas Runolfsdottir V",
+    "kullanıcı adı": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "adres": {
+      "sokak": "Ellsworth Zirvesi",
+      "suite": "Suite 729",
+      "şehir": "Aliyaview",
+      "posta kodu": "45169",
+      "coğrafi": {
+        "lat": "-14.3990",
+        "Ing": "-120,7677"
+      }
+    },
+    "telefon": "586.493.6943 x140",
+    "web sitesi": "jacynthe.com",
+    "şirket": {
+      "name": "Abernathy Grubu",
+      "catchPhrase": "Uygulanan ikincil kavram",
+      "bs": "genişletilebilir e-kuyruk sahiplerine e-etkinleştir"
+    }
+  },
+  {
+    "kimlik": 9
+    "name": "Glenna Reichert",
+    "kullanıcı adı": "Delphine",
+    "e-posta": "Chaim_McDermott@dana.io",
+    "adres": {
+      "sokak": "Dayna Park",
+      "suite": "Suite 449",
+      "şehir": "Bartholomebury",
+      "posta kodu": "76495-3109",
+      "coğrafi": {
+        "lat": "24.6463",
+        "lng": "-168.8889"
+      }
+    },
+    "telefon": "(775)976-6794 x41206",
+    "web sitesi": "conrad.com",
+    "şirket": {
+      "name": "Yost ve Oğullar",
+      "catchPhrase": "Bağlamsal olarak içeriğe dayalı proje değiştirilebilir",
+      "bs": "toplam gerçek zamanlı teknolojiler"
+    }
+  },
+  {
+    "kimlik": 10,
+    "name": "Clementina DuBuque",
+    "kullanıcı adı": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "adres": {
+      "sokak": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "şehir": "Lebsackbury",
+      "posta kodu": "31428-2261",
+      "coğrafi": {
+        "lat": "-38.2386",
+        "Ing": "57,2232"
+      }
+    },
+    "telefon": "024-648-3804",
+    "web sitesi": "ambrose.net",
+    "şirket": {
+      "name": "Hoeger LLC",
+      "catchPhrase": "Merkezi güçlendirme görev kuvveti",
+      "bs": "uçtan uca modelleri hedefle"
+    }
+  }
+]
